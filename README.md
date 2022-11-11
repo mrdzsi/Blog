@@ -1,1 +1,1 @@
-# Blog
+# Photo gallery
